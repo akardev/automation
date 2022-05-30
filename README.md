@@ -1,3 +1,3 @@
 
 
-### Current account sales, income, expense tracking automation that I wrote with PHP OOP.
+### Current account sales, income, expense tracking automation with PHP OOP.
